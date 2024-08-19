@@ -16,7 +16,7 @@ const Profile = () => {
           <img
             className="object-cover object-center bg-[#b9aeb6] border-2 border-white pointer-events-none rounded-full backdrop-contrast-200 backdrop-brightness-200"
             alt="Sandesh"
-            src={require("../assets/Images/avatar.png")}
+            src={require("../assets/Images/profilePic.png")}
           />
         </div>
         <div className="lg:flex-grow lg:pr-4 lg:mr-14 flex flex-col md:mb-0 items-center text-center xl:scale-105">
@@ -37,7 +37,7 @@ const Profile = () => {
           >
             &nbsp;
             <Typewriter
-              words={["Web Developer", "Full Stack Developer", "Enthusiastic Developer"]}
+              words={["Web Developer", "Full Stack Developer"]}
               loop={false}
               typeSpeed={100}
               deleteSpeed={100}
