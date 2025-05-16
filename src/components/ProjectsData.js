@@ -20,7 +20,7 @@ const ProjectsData = [
   {
     id: "3",
     name: "Ascentify Admin",
-    image: "./sff.jpg",
+    image: "./AscentfyDashboard.png",
     icons: [BiLogoAngular, BiLogoTypescript, BiLogoCss3, BiLogoSpringBoot, BiLogoPostgresql, BiLogoJava],
     description: "Admin Dashboard to manage all the courses",
   },

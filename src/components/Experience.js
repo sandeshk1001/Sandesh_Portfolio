@@ -49,7 +49,6 @@ const Experience = () => {
                 </li>
                 <li className="py-2 md:py-3">
                   Tools & Technologies :- Spring 5, ReactJS 18, AngularJS, PostgreSQL, SonarQube.
-                  Engineered Vaaradhi Portal, a management website for underprivileged students and orphans with educational facilities.
                 </li>
               </ul>
             </div>

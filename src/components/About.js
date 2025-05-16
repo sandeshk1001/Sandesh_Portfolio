@@ -38,7 +38,7 @@ const About = () => {
               data-aos-once="false"
               className="font-medium text-gray-700 text-lg lg:text-base xl:text-xl leading-loose xl:leading-8"
             >
-              Enthusiastic Full Stack Developer with 2+ years experience in web development and always eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. <br />
+              Enthusiastic Full Stack Developer with 3+ years experience in web development and always eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. <br />
               <br /> Throughout my career, I have developed proficiency in
               various web technologies including HTML5 , CSS3 , JavaScript . I am
               well-versed in popular libraries and frameworks like
@@ -65,7 +65,7 @@ const About = () => {
                 </Link>
               </button>
               <a
-                href="https://drive.google.com/file/d/13Y56FW34IzV7uArrUkXfJmPgQVyjTv3t/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1HwiASd4aaACnp3qqBXcPFmCfoyk_FTpJ/view?usp=drive_link"
                 target="_blank"
                 rel="noreferrer"
               >
